@@ -1,62 +1,72 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Project Model": {
+      "On-Site C&I Solar EPC": {
+        "Rooftop Solar Systems for Commercial Buildings": {},
+        "Rooftop Solar Systems for Industrial Facilities": {},
+        "Ground-mounted Solar Systems": {},
+        "Carport / Canopy Solar Installations for Parking Lots": {}
+      },
+      "Off-Site C&I Solar EPC": {
+        "Open-Access Solar Systems": {},
+        "Group Captive Solar Projects": {},
+        "Virtual PPA Solar Projects": {}
+      }
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By System Configuration": {
+      "Solar-only EPC": {},
+      "Solar + Storage EPC": {},
+      "Solar Hybrid EPC": {},
+      "Solar + Energy Efficiency EPC": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Ownership & Financing Model": {
+      "Developer-Owned Projects": {},
+      "Customer-Owned EPC": {},
+      "Joint Venture Projects": {}
     },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+    "By System Size / Project Scale": {
+      "Small-Scale C&I Solar Projects (Up to 100 kW)": {},
+      "Medium-Scale C&I Solar Projects (100 kW to 1 MW)": {},
+      "Large-Scale C&I Solar Projects (1 MW to 10 MW)": {},
+      "Utility-Scale C&I Projects (Above 10 MW)": {}
+    },
+    "By End-Use Sector": {
+      "Commercial": {
+        "Office Buildings / Corporate Offices": {},
+        "IT Parks / Business Parks": {},
+        "Hotels / Resorts / Hospitality Properties": {},
+        "Private Hospitals / Private Healthcare Facilities": {},
+        "Other Commercial Sector": {}
+      },
+      "Industrial Manufacturing": {
+        "Automotive & Auto Component Plants": {},
+        "Chemicals & Petrochemicals Plants": {},
+        "Pharmaceutical Manufacturing Units": {},
+        "Food & Beverage Processing Plants": {},
+        "Other Industrial Manufacturing Units": {}
+      },
+      "Government Sector": {
+        "Government Office Buildings": {},
+        "Municipal / Civic Administration Buildings": {},
+        "Government Hospitals / Public Healthcare Facilities": {},
+        "Defense / Military Establishments": {},
+        "Metro Stations / Depots / Operational Facilities": {},
+        "Other Government / Institutional / Public Infrastructure Facilities": {}
+      },
+      "Agricultural and Agro-Industrial": {
+        "Farms / Plantations": {},
+        "Irrigation Pumping Systems": {},
+        "Cold Storage Facilities": {},
+        "Food Grain Storage / Commodity Warehousing Facilities": {},
+        "Other Agricultural and Agro-Industrial Facilities": {}
+      }
     },
     "By Region": {
-      "North America": {
-        "U.S.": {},
-        "Canada": {}
-      },
-      "Europe": {
-        "U.K.": {},
-        "Germany": {},
-        "Italy": {},
-        "France": {},
-        "Spain": {},
-        "Russia": {},
-        "Rest of Europe": {}
-      },
-      "Asia Pacific": {
-        "China": {},
-        "India": {},
-        "Japan": {},
-        "South Korea": {},
-        "ASEAN": {},
-        "Australia": {},
-        "Rest of Asia Pacific": {}
-      },
-      "Latin America": {
-        "Brazil": {},
-        "Argentina": {},
-        "Mexico": {},
-        "Rest of Latin America": {}
-      },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
+      "India": {
+        "North India": {},
+        "East India": {},
+        "South India": {},
+        "West India": {}
       }
     }
   }
